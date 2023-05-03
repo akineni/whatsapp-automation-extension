@@ -1,4 +1,4 @@
-# whatsapp-automation-hack-extension
+# whatsapp-automation-extension
 
 <p>Extracts the Nigerian(only) phone numbers from TextScanner's scan result, upload and download as file (*.txt). Saves you the stress of manually editing.</p>
 
